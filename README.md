@@ -1,4 +1,6 @@
-﻿# Unofficial MessageBird WhatsApp Adapter for Bot Builder v4 .NET SDK
+# This is the repo that i experiment issues or new features. If you want to use MessageBird WhatsApp channel with your bot, please use the adapter from this repo. https://github.com/BotBuilderCommunity/botbuilder-community-dotnet/tree/develop/libraries/Bot.Builder.Community.Adapters.MessageBird
+
+# Unofficial MessageBird WhatsApp Adapter for Bot Builder v4 .NET SDK
 
 This project is created by Ahmet Kocadoğan to help Bot Framework community for WhatsApp channel and not related with MessageBird officially.
 
